@@ -1,6 +1,0 @@
-console.log("Hello, World!");
-let name = "Student";
-console.log("Welcome, " + name);
-VM580:1 Hello, World!
-VM580:3 Welcome, Student
-undefined
